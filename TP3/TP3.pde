@@ -1,5 +1,3 @@
-//Video YT https://youtu.be/d0_uGqc-BcU
-//hola david disculpe si me explico mal o soy redundante en algunas cosas pero se me complica hablar, esto porque me genera ansiedad y aun mas si es adelante de una camara, sepa disculpar ;)
 float Cua = 40; // tamaño de cada cuadradro
 float Mov = 0; // variable de movimiento
 float Frame = 1; // variable para aumentar el movimiento
